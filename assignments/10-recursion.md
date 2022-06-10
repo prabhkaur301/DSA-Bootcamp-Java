@@ -4,7 +4,7 @@
 # Problems
 
 ## Easy
-- [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/){:target="_blank"} `GFG`
+- [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) {:target="_blank"} `GFG`
 - [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/){:target="_blank"} `GFG`
 - [Binary Search using recursion](https://leetcode.com/problems/binary-search/){:target="_blank"} `leetcode`
 - [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/){:target="_blank"} `GFG`
