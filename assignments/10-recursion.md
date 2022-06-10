@@ -4,22 +4,22 @@
 # Problems
 
 ## Easy
-- [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) `GFG`
-- [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/) `GFG`
-- [Binary Search using recursion](https://leetcode.com/problems/binary-search/) `leetcode`
-- [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/) `GFG`
-- [Reverse String](https://leetcode.com/problems/reverse-string/) `leetcode`
-- [Print 1 To N Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1/) `GFG`
-- [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) `leetcode`
+- [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/){:target="_blank"} `GFG`
+- [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/){:target="_blank"} `GFG`
+- [Binary Search using recursion](https://leetcode.com/problems/binary-search/){:target="_blank"} `leetcode`
+- [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/){:target="_blank"} `GFG`
+- [Reverse String](https://leetcode.com/problems/reverse-string/){:target="_blank"} `leetcode`
+- [Print 1 To N Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1/){:target="_blank"} `GFG`
+- [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/){:target="_blank"} `leetcode`
 - [Special Fibonacci](https://www.codechef.com/problems/FIBXOR01/) `CodeChef`
 - [Length of string using Recursion](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/) `GFG`
-- [Geek-onacci Number](https://practice.geeksforgeeks.org/problems/geek-onacci-number/0/) `GFG`
-- [Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/) `GFG`
-- [Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/) `GFG`
-- [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/) `GFG`
-- [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/) `GFG`
-- [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG`
-- [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) `GFG`
+- [Geek-onacci Number](https://practice.geeksforgeeks.org/problems/geek-onacci-number/0/){:target="_blank"} `GFG`
+- [Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/){:target="_blank"} `GFG`
+- [Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/){:target="_blank"} `GFG`
+- [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/){:target="_blank"} `GFG`
+- [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/){:target="_blank"} `GFG`
+- [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/){:target="_blank"} `GFG`
+- [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/){:target="_blank"} `GFG`
 - [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode`
 - [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode`
 - [Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode`
